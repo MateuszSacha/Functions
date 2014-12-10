@@ -1,0 +1,1 @@
+OutputSymbols(5, "*")
